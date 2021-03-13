@@ -1,5 +1,5 @@
 <h1 align=center>
-   Git-Repo
+   Git-Repos
 </h1>
 
 <br>
